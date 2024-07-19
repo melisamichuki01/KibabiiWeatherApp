@@ -3,4 +3,4 @@ plotly
 streamlit
 statsmodels
 matplotlib
-prophet == v1.1.1
+prophet

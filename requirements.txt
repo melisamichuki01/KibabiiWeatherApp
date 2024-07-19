@@ -2,6 +2,5 @@ pandas
 plotly
 streamlit
 statsmodels
-prophet
 matplotlib
-numpy ==1.21.0
+prophet == v1.1.1

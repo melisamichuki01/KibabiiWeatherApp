@@ -1,0 +1,7 @@
+pandas
+plotly
+streamlit
+statsmodels
+prophet
+matplotlib
+numpy ==1.21.0
